@@ -14,11 +14,7 @@ This project demonstrates a complete pipeline of face detection, feature extract
 Overall, the experiment helped in understanding how computer vision and unsupervised learning techniques can be combined for practical image analysis tasks. 
 
 
-![Face Detection Output](images/result1.png)
-![Clustering Plot](images/result2.png)
-![Centroid Visualization](images/result3.png)
-![Template Mapping](images/result4.png)
-![Final Output](images/result5.png)
+
 
 
 
