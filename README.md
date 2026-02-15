@@ -20,7 +20,7 @@ Overall, the experiment helped in understanding how computer vision and unsuperv
 ![Face Detection](images/result1.png)
 
 ### 2. Clustering of Faces
-![Clustering Plot](images/result2.png)
+![Clustering Plot](images/image_2.png)
 
 ### 3. Centroid Visualization
 ![Centroids](images/result3.png)
