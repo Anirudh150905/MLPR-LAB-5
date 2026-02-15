@@ -14,7 +14,7 @@ This project demonstrates a complete pipeline of face detection, feature extract
 Overall, the experiment helped in understanding how computer vision and unsupervised learning techniques can be combined for practical image analysis tasks. 
 
 
-![Face Detection Output](<img width="499" height="526" alt="shashi" src="https://github.com/user-attachments/assets/1c65a271-c816-45df-8b04-edf816dec033" />)
+![Face Detection Output]("D:\C User Anirudh Data\Downloads\shashi.png")
 ![Clustering Plot](<img width="1005" height="547" alt="image_2" src="https://github.com/user-attachments/assets/8d5d3562-837a-4fb8-9c90-e6f4a6df520c" />)
 ![Centroid Visualization](<img width="1005" height="547" alt="image_3" src="https://github.com/user-attachments/assets/136699f7-cc6e-4a99-aff1-cbb282a719df" />)
 ![Template Mapping](<img width="1005" height="547" alt="image_4" src="https://github.com/user-attachments/assets/8534b5c7-a995-4827-8c7c-c3fede37eeab" />)
