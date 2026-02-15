@@ -17,16 +17,19 @@ Overall, the experiment helped in understanding how computer vision and unsuperv
 ## 🖼️ Results and Visualisations
 
 ### 1. Face Detection
-![Face Detection](result1.png)
+![Face Detection](images/result1.png)
 
 ### 2. Clustering of Faces
-![Clustering Plot](result2.png)
+![Clustering Plot](images/result2.png)
 
 ### 3. Centroid Visualization
-![Centroids](result3.png)
+![Centroids](images/result3.png)
 
 ### 4. Template Face Mapping
 ![Template Mapping](images/result4.png)
+
+### 5. Final Cluster Result
+![Final Output](images/result5.png)
 
 ### 5. Final Cluster Result
 ![Final Output](images/result5.png)
